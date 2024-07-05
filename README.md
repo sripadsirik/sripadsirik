@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sripad-sirikonda-cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sripad-sirikonda-cs" height="30" width="40" /></a>
 <a href="https://instagram.com/sri.sirikonda0113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri.sirikonda0113" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sripad sirkonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sripad sirkonda" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uccxrnhdltny4wdls3rerzdq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uccxrnhdltny4wdls3rerzdq" height="30" width="40" /></a>
 </p>
 
 
