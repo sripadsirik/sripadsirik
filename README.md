@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sripad Sirikonda</h1>
 <h3 align="center">AI/ML Models for Water Infrastructure Optimization Intern | Passionate Software Engineer | AI/ML Practitioner</h3>
-<h4><a href="https://sripad-sirikonda-cs.vercel.app/">My Website</a> | <a href="https://linkedin.com/in/sripad-sirikonda-cs">LinkedIn</a></h4>
+<h4 align="center">331-269-7644 | <a href="https://sripad-sirikonda-cs.vercel.app/">My Website</a> | <a href="https://linkedin.com/in/sripad-sirikonda-cs">LinkedIn</a></h4>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sripadsirik&label=Profile%20views&color=0e75b6&style=flat" alt="sripadsirik" /> </p>
