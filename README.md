@@ -9,17 +9,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sripadsirik&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on [Chicago Saranam Yatra App](https://github.com/sripadsirik/saranam-app)
+- 🔭 I’m currently working on [RealEstate Platform](https://github.com/sripadsirik/realestate-ai)
 
-- 🌱 I’m currently learning **Machine Learning and AWS Cloud Practitioner**
-
-- 👯 I’m looking to collaborate on [Traffic-Congestion-Model-Predictor](https://github.com/sripadsirik/traffic-project)
-
-- 🤝 I’m looking for help with [Chicago Saranam Yatra App](https://github.com/sripadsirik/saranam-app)
+- 🌱 I’m currently learning **AWS Solutions Architect Associate**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sripadsirik](https://github.com/sripadsirik)
-
-- 💬 Ask me about **react.js, react-native, Java, and cars**
 
 - 📫 How to reach me **ssiri5@uic.edu | sripadsirik@gmail.com**
 
