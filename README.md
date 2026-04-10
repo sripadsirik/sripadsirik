@@ -40,6 +40,10 @@
 - ⚡ Big fan of **cars and movies**
 - 📬 **sripadsirik@gmail.com**
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/69XX5Hz66wxCqeoMHu/giphy.gif" width="100%" />
+</div>
+
 ---
 
 ## 🛠 Tech Stack
