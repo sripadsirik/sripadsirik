@@ -89,19 +89,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sripadsirik&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sripadsirik&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sripadsirik&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sripadsirik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </div>
 
 ---
