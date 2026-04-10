@@ -1,4 +1,6 @@
-<img width="700" height="311" alt="image" src="https://github.com/user-attachments/assets/6a809531-61ba-45e8-8700-fbb4408d0fa4" />
+<div align="center">
+  <img src="[https://media1.giphy.com/media/69XX5Hz66wxCqeoMHu/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRiZXEyNmczYXRzZ3lqZmIwcTlkbWgwbmY3Y3N2N25iNTFubXBzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xtDarsUgCwZMXqcVQA/giphy.gif)" width="100%" />
+</div>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -41,10 +43,6 @@
 - 🤝 Open to collaborating on **AI/ML & Full-Stack projects**
 - ⚡ Big fan of **cars and movies**
 - 📬 **sripadsirik@gmail.com**
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/69XX5Hz66wxCqeoMHu/giphy.gif" width="100%" />
-</div>
 
 ---
 
