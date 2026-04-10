@@ -32,8 +32,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="340" />
-
 - 🏢 **AI/ML Intern** — building models for water infrastructure optimization
 - 🔭 Currently working on a **[RealEstate AI Platform](https://github.com/sripadsirik/realestate-ai)**
 - 📚 Studying for **AWS Solutions Architect Associate**
@@ -41,8 +39,6 @@
 - 🤝 Open to collaborating on **AI/ML & Full-Stack projects**
 - ⚡ Big fan of **cars and movies**
 - 📬 **sripadsirik@gmail.com**
-
-<br clear="right"/>
 
 ---
 
@@ -109,13 +105,6 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="49%" />
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI1vYSkg/giphy.gif" width="49%" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
