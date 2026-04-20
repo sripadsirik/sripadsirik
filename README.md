@@ -37,7 +37,7 @@
 ## 🧑‍💻 About Me
 
 - 🏢 **AI/ML Intern** — building models for water infrastructure optimization
-- 🔭 Currently working on a **[ViperAI - Automate Jobs](https:/viperai.fyi)**
+- 🔭 Currently working on a **Viper - Automate Jobs(https:/viperai.fyi)**
 - 📚 Studying for **AWS Solutions Architect Associate**
 - 🎓 CS student at **University of Illinois Chicago**
 - 🤝 Open to collaborating on **AI/ML & Full-Stack projects**
