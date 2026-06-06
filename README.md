@@ -33,8 +33,7 @@
 <br/>
 
 ---
-[Viper - Automate Jobs](viperai.fyi)
-[Google](https://google.com)
+[Viper - Automate Jobs](https://viperai.fyi)
 ---
 
 ## 🛠 Tech Stack
