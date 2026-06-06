@@ -33,7 +33,7 @@
 <br/>
 
 ---
-**<a href="https:/viperai.fyi"  target="_blank">Viper - Automate Job</a>s**
+<a href="https:/viperai.fyi"  target="_blank">Viper - Automate Job</a>
 ---
 
 ## 🛠 Tech Stack
