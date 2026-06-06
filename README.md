@@ -33,17 +33,7 @@
 <br/>
 
 ---
-
-## 🧑‍💻 About Me
-
-- 🏢 **AI/ML Intern** — building models for water infrastructure optimization
-- 🔭 Currently working on a **[Viper - Automate Jobs](https:/viperai.fyi)**
-- 📚 Studying for **AWS Solutions Architect Associate**
-- 🎓 CS student at **University of Illinois Chicago**
-- 🤝 Open to collaborating on **AI/ML & Full-Stack projects**
-- ⚡ Big fan of **cars and movies**
-- 📬 **sripadsirik@gmail.com**
-
+**<a href="https:/viperai.fyi"  target="_blank">Viper - Automate Job</a>s**
 ---
 
 ## 🛠 Tech Stack
